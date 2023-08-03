@@ -50,6 +50,11 @@ h4 {
   padding-bottom: 2rem;
 }
 
+section {
+  border-bottom: 1px dashed black;
+  padding-bottom: 1rem;
+}
+
 section > h2 {
   margin-bottom: 1rem;
 }
